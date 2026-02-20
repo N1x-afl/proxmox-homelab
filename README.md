@@ -48,7 +48,7 @@ La seguridad de los datos es crítica. He implementado **Proxmox Backup Server (
 
 ## 🌐 Networking y Seguridad
 * **Dominio:** `hardtechsys.tech` gestionado mediante Cloudflare.
-* **VPN:** Acceso remoto seguro vía **Netbird** y túneles seguros.
+* **VPN:** Acceso remoto seguro vía **Fortigate** y túneles seguros.
 * **Segmentación:** Reglas de firewall aplicadas a nivel de Datacenter y contenedores.
 
 ---
